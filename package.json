@@ -2,7 +2,7 @@
   "name": "faq",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://healthyspi.github.io/view-animation/",
+  "homepage": "https://healthyspi.github.io/faq/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "moment": "^2.22.2",
